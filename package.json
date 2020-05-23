@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-example",
+  "version": "1.0.0",
+  "description": "Puppeteer examples in real world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhbaysgalan1/puppeteer-example.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "example",
+    "examples",
+    "pdf",
+    "download"
+  ],
+  "author": "Ankhbayasgalan Davaadorj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anhbaysgalan1/puppeteer-example/issues"
+  },
+  "homepage": "https://github.com/anhbaysgalan1/puppeteer-example#readme",
+  "dependencies": {
+    "puppeteer": "^3.1.0"
+  }
+}
